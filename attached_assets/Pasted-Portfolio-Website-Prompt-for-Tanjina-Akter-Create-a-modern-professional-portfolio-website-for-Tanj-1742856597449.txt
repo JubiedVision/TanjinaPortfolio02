@@ -1,0 +1,65 @@
+Portfolio Website Prompt for Tanjina Akter
+Create a modern, professional portfolio website for Tanjina Akter with the following sections:
+Homepage
+Professional headshot
+Headline: "UX Researcher & Lead Generator"
+Brief introduction highlighting expertise in qualitative and quantitative research strategies
+Call-to-action buttons for "View Projects" and "Contact Me"
+About Me
+Professional background highlighting experience at Upleadsbd
+Educational background: University of Dhaka graduate
+Personal philosophy about user experience research
+Skills visualization section showing research, analysis, and collaboration abilities
+Professional goals and values
+Experience
+Role: Lead Generator at Upleadsbd
+Responsibilities: Web Research, Internet Research, Email research
+Achievements: Include "Volunteer of the Year" and "Best Team Leader of the Year" accolades
+Timeline visualization of career growth
+Skills & Expertise
+UX Research methodologies
+Qualitative research techniques
+Quantitative analysis
+Data collection and analysis
+Collaboration with product management
+Development team coordination
+Web and internet research expertise
+Email research capabilities
+Leadership skills with visual skill bars or charts
+Portfolio/Projects
+4-6 case studies showcasing research projects
+Each project should include:
+Problem statement
+Research methodology
+Key findings
+Impact and results
+Visual elements (charts, user journey maps, etc.)
+Testimonials
+Quotes from colleagues, supervisors, and clients
+Include names and positions when possible
+Education
+University of Dhaka degree and specialization
+Relevant certifications or continuing education
+Academic achievements
+Contact
+Professional email contact form
+LinkedIn profile link
+Location: Comilla District, Bangladesh
+Availability for consulting or new opportunities
+Design Elements:
+Clean, minimalist design with professional color scheme (blues, whites, and subtle accent colors)
+Mobile-responsive layout
+Easy navigation with smooth scrolling
+Subtle animations for engagement
+Typography that emphasizes professionalism and readability
+Integration of data visualization elements to showcase research skills
+Portfolio filtering capabilities by project type
+Dark/light mode toggle
+Technical Features:
+Fast loading times
+SEO optimization with relevant keywords for UX research
+Social sharing capabilities
+Download resume/CV option
+Blog section for sharing UX research insights (optional)
+Project pagination and filtering
+Analytics integration to track portfolio performance
