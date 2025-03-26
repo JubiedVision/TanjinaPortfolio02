@@ -1,0 +1,29 @@
+[build]
+  # This command builds both the frontend (into dist/public) and the backend (into dist)
+  command = "npm run build" 
+  # This is the directory containing the static frontend assets that Netlify will deploy
+  publish = "dist/public" 
+  # This directory contains the serverless functions
+  functions = "netlify/functions"
+
+# Settings for Netlify Dev (local development) can be added here if needed
+# [dev]
+#   command = "npm run dev" # Command to start your dev server
+#   targetPort = 8080 # The port your dev server runs on (check your setup)
+#   publish = "dist/public" # Optional: If your dev server serves from a specific dir
+
+# Redirects/Rewrites for functions will be added later if we adapt the backend
+# Redirects API requests to the serverless function
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
+  # Force the redirect even if a file exists at the 'from' path (optional but often useful)
+  # force = true 
+
+# Catch-all redirect for client-side routing (like React Router)
+# This ensures that refreshing a page on a client-side route works correctly.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
